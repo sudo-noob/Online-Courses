@@ -1,0 +1,4 @@
+﻿  main.c
+D:\Udemy\C\CSourceCode\VisualStudio\CProjects\03_Calc\main.c(22,1): warning C4005: 'TAXRATE_DEFINED': macro redefinition
+D:\Udemy\C\CSourceCode\VisualStudio\CProjects\03_Calc\main.c(4): message : see previous definition of 'TAXRATE_DEFINED'
+  03_Calc.vcxproj -> D:\Udemy\C\CSourceCode\VisualStudio\CProjects\x64\Debug\03_Calc.exe
