@@ -1,4 +1,0 @@
-﻿  main.c
-D:\Udemy\C\CSourceCode\VisualStudio\CProjects\Typedefs\main.c(61,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
-D:\Udemy\C\CSourceCode\VisualStudio\CProjects\Typedefs\main.c(61,10): message : consider using '%zd' in the format string
-  Typedefs.vcxproj -> D:\Udemy\C\CSourceCode\VisualStudio\CProjects\x64\Debug\Typedefs.exe

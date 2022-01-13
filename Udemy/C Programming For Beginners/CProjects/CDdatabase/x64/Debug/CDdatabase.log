@@ -1,9 +1,0 @@
-﻿  cddb.c
-D:\Udemy\C\CSourceCode\VisualStudio\CProjects\CDdatabase\cddb.c(215,59): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-D:\Udemy\C\CSourceCode\VisualStudio\CProjects\CDdatabase\cddb.c(237,61): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-D:\Udemy\C\CSourceCode\VisualStudio\CProjects\CDdatabase\cddb.c(256,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
-D:\Udemy\C\CSourceCode\VisualStudio\CProjects\CDdatabase\cddb.c(256,10): message : consider using '%zd' in the format string
-  main.c
-  mystring.c
-  Generating Code...
-  CDdatabase.vcxproj -> D:\Udemy\C\CSourceCode\VisualStudio\CProjects\x64\Debug\CDdatabase.exe
