@@ -1,0 +1,3 @@
+﻿  main.c
+E:\Github\Online-Courses\Udemy\C Programming For Beginners\CPractice\01_Calc\main.c(11,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  01_Calc.vcxproj -> E:\Github\Online-Courses\Udemy\C Programming For Beginners\CPractice\x64\Debug\01_Calc.exe
