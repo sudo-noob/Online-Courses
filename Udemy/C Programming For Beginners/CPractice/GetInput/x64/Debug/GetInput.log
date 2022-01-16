@@ -1,0 +1,3 @@
+﻿  main.c
+E:\Github\Online-Courses\Udemy\C Programming For Beginners\CPractice\GetInput\main.c(12,6): warning C4013: 'gets' undefined; assuming extern returning int
+  GetInput.vcxproj -> E:\Github\Online-Courses\Udemy\C Programming For Beginners\CPractice\x64\Debug\GetInput.exe

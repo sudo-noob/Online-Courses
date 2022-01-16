@@ -7,7 +7,7 @@ int main(int argc, char** argv) {
 	double taxrate;
 
 	taxrate = 0.175;
-	subtotal = 250;
+	subtotal = 200;
 	tax = subtotal * taxrate;
 	grandtotal = subtotal + tax;
 

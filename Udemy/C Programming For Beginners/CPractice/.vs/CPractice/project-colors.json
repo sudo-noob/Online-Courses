@@ -40,7 +40,37 @@
       "ProjectGuid": "433785da-e50e-4c77-a3e2-da4785ead068",
       "DisplayName": "NamingConventions",
       "ColorIndex": 7
+    },
+    "9ff56249-c5b2-4b4b-b2e9-260b04e6ce22": {
+      "ProjectGuid": "9ff56249-c5b2-4b4b-b2e9-260b04e6ce22",
+      "DisplayName": "GetInput",
+      "ColorIndex": 8
+    },
+    "c9e5c62d-b94e-4f9f-9716-3679cb75e480": {
+      "ProjectGuid": "c9e5c62d-b94e-4f9f-9716-3679cb75e480",
+      "DisplayName": "LogicalOperators",
+      "ColorIndex": 9
+    },
+    "6f555763-d5e1-43ff-92dc-ab1e58a070b3": {
+      "ProjectGuid": "6f555763-d5e1-43ff-92dc-ab1e58a070b3",
+      "DisplayName": "Operators",
+      "ColorIndex": 10
+    },
+    "5c73c313-cd76-4100-8398-b0704be8f0f0": {
+      "ProjectGuid": "5c73c313-cd76-4100-8398-b0704be8f0f0",
+      "DisplayName": "ReadLine",
+      "ColorIndex": 11
+    },
+    "50f5e99d-00c3-401b-9616-234eac0d88fc": {
+      "ProjectGuid": "50f5e99d-00c3-401b-9616-234eac0d88fc",
+      "DisplayName": "TestAge1",
+      "ColorIndex": 12
+    },
+    "c9672747-22c7-4dd7-b4e8-1462c039dbf3": {
+      "ProjectGuid": "c9672747-22c7-4dd7-b4e8-1462c039dbf3",
+      "DisplayName": "TestAge2",
+      "ColorIndex": 13
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 14
 }
