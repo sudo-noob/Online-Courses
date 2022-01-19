@@ -1,0 +1,4 @@
+﻿  main.c
+E:\Github\Online-Courses\Udemy\C Programming For Beginners\CPractice\Typedefs\main.c(61,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+E:\Github\Online-Courses\Udemy\C Programming For Beginners\CPractice\Typedefs\main.c(61,10): message : consider using '%zd' in the format string
+  Typedefs.vcxproj -> E:\Github\Online-Courses\Udemy\C Programming For Beginners\CPractice\x64\Debug\Typedefs.exe

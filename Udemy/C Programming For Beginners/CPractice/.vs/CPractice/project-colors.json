@@ -70,7 +70,112 @@
       "ProjectGuid": "c9672747-22c7-4dd7-b4e8-1462c039dbf3",
       "DisplayName": "TestAge2",
       "ColorIndex": 13
+    },
+    "63469563-b39b-4643-949b-51f5f5a13db3": {
+      "ProjectGuid": "63469563-b39b-4643-949b-51f5f5a13db3",
+      "DisplayName": "Functions",
+      "ColorIndex": 14
+    },
+    "ff85b06b-d2f1-4080-8eda-a5139f364143": {
+      "ProjectGuid": "ff85b06b-d2f1-4080-8eda-a5139f364143",
+      "DisplayName": "SwitchCase",
+      "ColorIndex": 15
+    },
+    "fb492ec2-7288-41de-b531-ec96439624d3": {
+      "ProjectGuid": "fb492ec2-7288-41de-b531-ec96439624d3",
+      "DisplayName": "Arrays",
+      "ColorIndex": 0
+    },
+    "f36d1ea7-ac44-4f74-9550-189cef22e0ad": {
+      "ProjectGuid": "f36d1ea7-ac44-4f74-9550-189cef22e0ad",
+      "DisplayName": "BreakAndContinue",
+      "ColorIndex": 1
+    },
+    "05bebdef-fcd4-4cc8-890b-37038481778a": {
+      "ProjectGuid": "05bebdef-fcd4-4cc8-890b-37038481778a",
+      "DisplayName": "MultiDimensionArrays",
+      "ColorIndex": 2
+    },
+    "85a59f88-2c81-4839-8865-4df252de6603": {
+      "ProjectGuid": "85a59f88-2c81-4839-8865-4df252de6603",
+      "DisplayName": "CharFunctions",
+      "ColorIndex": 3
+    },
+    "8a286203-50f4-4076-8669-bc6b56284a62": {
+      "ProjectGuid": "8a286203-50f4-4076-8669-bc6b56284a62",
+      "DisplayName": "ReturnStrings",
+      "ColorIndex": 4
+    },
+    "86dc4018-fbbe-4a0c-8af4-178b32de83e6": {
+      "ProjectGuid": "86dc4018-fbbe-4a0c-8af4-178b32de83e6",
+      "DisplayName": "StringFunctions",
+      "ColorIndex": 5
+    },
+    "c5edf940-95f3-4762-ae44-8e0be174f4b8": {
+      "ProjectGuid": "c5edf940-95f3-4762-ae44-8e0be174f4b8",
+      "DisplayName": "StringIndex",
+      "ColorIndex": 6
+    },
+    "a05aa6ef-d4be-47f4-8f77-6607b3a434ed": {
+      "ProjectGuid": "a05aa6ef-d4be-47f4-8f77-6607b3a434ed",
+      "DisplayName": "StringsAndAddresses",
+      "ColorIndex": 7
+    },
+    "f88e1736-7f05-473f-9ebd-efbf675df4d9": {
+      "ProjectGuid": "f88e1736-7f05-473f-9ebd-efbf675df4d9",
+      "DisplayName": "StringsAndPointers",
+      "ColorIndex": 8
+    },
+    "d7e7cfc4-b6cf-498d-b421-db044934e6d9": {
+      "ProjectGuid": "d7e7cfc4-b6cf-498d-b421-db044934e6d9",
+      "DisplayName": "ReadFile",
+      "ColorIndex": 9
+    },
+    "afceb2e9-7dc9-4bda-94db-9c2fb41a41d2": {
+      "ProjectGuid": "afceb2e9-7dc9-4bda-94db-9c2fb41a41d2",
+      "DisplayName": "CDdatabase",
+      "ColorIndex": 10
+    },
+    "046dbca3-24c4-4667-8bd7-28fd63459885": {
+      "ProjectGuid": "046dbca3-24c4-4667-8bd7-28fd63459885",
+      "DisplayName": "FileBasics",
+      "ColorIndex": 11
+    },
+    "4da3a4a8-e51f-4a52-8e78-025740fbe0e2": {
+      "ProjectGuid": "4da3a4a8-e51f-4a52-8e78-025740fbe0e2",
+      "DisplayName": "FileSearchStr",
+      "ColorIndex": 12
+    },
+    "e7f239c4-08a0-43b0-b868-8432852ae831": {
+      "ProjectGuid": "e7f239c4-08a0-43b0-b868-8432852ae831",
+      "DisplayName": "FileStats",
+      "ColorIndex": 13
+    },
+    "effd0d57-b536-4f6b-9d52-5ba3f16041db": {
+      "ProjectGuid": "effd0d57-b536-4f6b-9d52-5ba3f16041db",
+      "DisplayName": "Enums",
+      "ColorIndex": 14
+    },
+    "f1e7ae91-3923-459f-88c8-b4654c575367": {
+      "ProjectGuid": "f1e7ae91-3923-459f-88c8-b4654c575367",
+      "DisplayName": "HeaderFiles",
+      "ColorIndex": 15
+    },
+    "c05420a1-2ec1-45e7-87fa-f47a4ce42dfc": {
+      "ProjectGuid": "c05420a1-2ec1-45e7-87fa-f47a4ce42dfc",
+      "DisplayName": "Scope",
+      "ColorIndex": 0
+    },
+    "6d0e8640-632c-438d-94bd-3a75f8762751": {
+      "ProjectGuid": "6d0e8640-632c-438d-94bd-3a75f8762751",
+      "DisplayName": "Structs",
+      "ColorIndex": 1
+    },
+    "56564172-163e-4116-85b6-4e2dba16b773": {
+      "ProjectGuid": "56564172-163e-4116-85b6-4e2dba16b773",
+      "DisplayName": "Typedefs",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 14
+  "NextColorIndex": 3
 }
