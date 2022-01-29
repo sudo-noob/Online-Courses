@@ -1,0 +1,10 @@
+﻿  main.c
+E:\Github\Online-Courses\Udemy\C Programming For Beginners\CPractice\StringsAndPointers\main.c(8,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char (*)[6]'
+E:\Github\Online-Courses\Udemy\C Programming For Beginners\CPractice\StringsAndPointers\main.c(8,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'char *'
+E:\Github\Online-Courses\Udemy\C Programming For Beginners\CPractice\StringsAndPointers\main.c(9,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char **'
+E:\Github\Online-Courses\Udemy\C Programming For Beginners\CPractice\StringsAndPointers\main.c(9,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'char *'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  StringsAndPointers.vcxproj -> E:\Github\Online-Courses\Udemy\C Programming For Beginners\CPractice\Release\StringsAndPointers.exe

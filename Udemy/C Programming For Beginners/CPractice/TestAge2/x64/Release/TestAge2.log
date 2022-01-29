@@ -1,0 +1,8 @@
+﻿  main.c
+E:\Github\Online-Courses\Udemy\C Programming For Beginners\CPractice\TestAge2\main.c(9,6): warning C4013: 'gets' undefined; assuming extern returning int
+E:\Github\Online-Courses\Udemy\C Programming For Beginners\CPractice\TestAge2\main.c(10,12): warning C4013: 'atoi' undefined; assuming extern returning int
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TestAge2.vcxproj -> E:\Github\Online-Courses\Udemy\C Programming For Beginners\CPractice\x64\Release\TestAge2.exe

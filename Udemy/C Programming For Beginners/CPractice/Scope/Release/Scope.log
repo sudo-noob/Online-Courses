@@ -1,0 +1,9 @@
+﻿  main.c
+E:\Github\Online-Courses\Udemy\C Programming For Beginners\CPractice\Scope\main.c(33,6): warning C4101: 'stringpos': unreferenced local variable
+  mystring.c
+  mystringutils.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 13 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Scope.vcxproj -> E:\Github\Online-Courses\Udemy\C Programming For Beginners\CPractice\Release\Scope.exe

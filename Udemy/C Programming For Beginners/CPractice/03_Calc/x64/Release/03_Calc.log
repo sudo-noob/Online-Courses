@@ -1,0 +1,8 @@
+﻿  main.c
+E:\Github\Online-Courses\Udemy\C Programming For Beginners\CPractice\03_Calc\main.c(22,1): warning C4005: 'TAXRATE_DEFINED': macro redefinition
+E:\Github\Online-Courses\Udemy\C Programming For Beginners\CPractice\03_Calc\main.c(4): message : see previous definition of 'TAXRATE_DEFINED'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  03_Calc.vcxproj -> E:\Github\Online-Courses\Udemy\C Programming For Beginners\CPractice\x64\Release\03_Calc.exe

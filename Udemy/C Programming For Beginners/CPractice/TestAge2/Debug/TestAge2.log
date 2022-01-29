@@ -1,0 +1,4 @@
+﻿  main.c
+E:\Github\Online-Courses\Udemy\C Programming For Beginners\CPractice\TestAge2\main.c(9,6): warning C4013: 'gets' undefined; assuming extern returning int
+E:\Github\Online-Courses\Udemy\C Programming For Beginners\CPractice\TestAge2\main.c(10,12): warning C4013: 'atoi' undefined; assuming extern returning int
+  TestAge2.vcxproj -> E:\Github\Online-Courses\Udemy\C Programming For Beginners\CPractice\Debug\TestAge2.exe

@@ -1,0 +1,4 @@
+﻿  main.c
+E:\Github\Online-Courses\Udemy\C Programming For Beginners\CPractice\03_Calc\main.c(22,1): warning C4005: 'TAXRATE_DEFINED': macro redefinition
+E:\Github\Online-Courses\Udemy\C Programming For Beginners\CPractice\03_Calc\main.c(4): message : see previous definition of 'TAXRATE_DEFINED'
+  03_Calc.vcxproj -> E:\Github\Online-Courses\Udemy\C Programming For Beginners\CPractice\Debug\03_Calc.exe
