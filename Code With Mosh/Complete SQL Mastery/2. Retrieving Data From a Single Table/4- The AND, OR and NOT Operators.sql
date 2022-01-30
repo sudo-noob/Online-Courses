@@ -12,6 +12,6 @@
 -- WHERE (birth_date <= '1990-01-01' AND points <= 1000)
 
 
-SELECT *
+SELECT * , unit_price * quantity AS 'Total Price'
 FROM order_items
 WHERE order_id = 6 AND unit_price * quantity > 30
