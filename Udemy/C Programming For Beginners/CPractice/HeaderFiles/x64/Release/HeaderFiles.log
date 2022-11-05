@@ -1,7 +1,0 @@
-﻿  main.c
-  mystring.c
-  Generating code
-  Previous IPDB not found, fall back to full compilation.
-  All 6 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  HeaderFiles.vcxproj -> E:\Github\Online-Courses\Udemy\C Programming For Beginners\CPractice\x64\Release\HeaderFiles.exe

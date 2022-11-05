@@ -1,6 +1,0 @@
-﻿  main.c
-E:\Github\Online-Courses\Udemy\C Programming For Beginners\CPractice\Scope\main.c(33,6): warning C4101: 'stringpos': unreferenced local variable
-  mystring.c
-  mystringutils.c
-  Generating Code...
-  Scope.vcxproj -> E:\Github\Online-Courses\Udemy\C Programming For Beginners\CPractice\Debug\Scope.exe

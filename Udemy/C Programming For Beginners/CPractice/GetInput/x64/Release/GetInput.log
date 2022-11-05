@@ -1,7 +1,0 @@
-﻿  main.c
-E:\Github\Online-Courses\Udemy\C Programming For Beginners\CPractice\GetInput\main.c(12,6): warning C4013: 'gets' undefined; assuming extern returning int
-  Generating code
-  Previous IPDB not found, fall back to full compilation.
-  All 6 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  GetInput.vcxproj -> E:\Github\Online-Courses\Udemy\C Programming For Beginners\CPractice\x64\Release\GetInput.exe

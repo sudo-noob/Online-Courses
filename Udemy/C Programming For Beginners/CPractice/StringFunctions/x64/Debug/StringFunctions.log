@@ -1,6 +1,0 @@
-﻿  main.c
-E:\Github\Online-Courses\Udemy\C Programming For Beginners\CPractice\StringFunctions\main.c(53,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
-E:\Github\Online-Courses\Udemy\C Programming For Beginners\CPractice\StringFunctions\main.c(53,9): message : consider using '%zd' in the format string
-E:\Github\Online-Courses\Udemy\C Programming For Beginners\CPractice\StringFunctions\main.c(54,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
-E:\Github\Online-Courses\Udemy\C Programming For Beginners\CPractice\StringFunctions\main.c(54,9): message : consider using '%zd' in the format string
-  StringFunctions.vcxproj -> E:\Github\Online-Courses\Udemy\C Programming For Beginners\CPractice\x64\Debug\StringFunctions.exe

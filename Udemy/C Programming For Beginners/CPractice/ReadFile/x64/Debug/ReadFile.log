@@ -1,4 +1,0 @@
-﻿  main.c
-E:\Github\Online-Courses\Udemy\C Programming For Beginners\CPractice\ReadFile\main.c(30,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'size_t'
-E:\Github\Online-Courses\Udemy\C Programming For Beginners\CPractice\ReadFile\main.c(30,10): message : consider using '%zd' in the format string
-  ReadFile.vcxproj -> E:\Github\Online-Courses\Udemy\C Programming For Beginners\CPractice\x64\Debug\ReadFile.exe

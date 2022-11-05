@@ -1,3 +1,0 @@
-﻿  main.c
-E:\Github\Online-Courses\Udemy\C Programming For Beginners\CPractice\CharFunctions\main.c(18,22): warning C4013: 'strlen' undefined; assuming extern returning int
-  CharFunctions.vcxproj -> E:\Github\Online-Courses\Udemy\C Programming For Beginners\CPractice\Debug\CharFunctions.exe

@@ -1,8 +1,0 @@
-﻿  main.c
-E:\Github\Online-Courses\Udemy\C Programming For Beginners\CPractice\ReadFile\main.c(30,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'size_t'
-E:\Github\Online-Courses\Udemy\C Programming For Beginners\CPractice\ReadFile\main.c(30,10): message : consider using '%zd' in the format string
-  Generating code
-  Previous IPDB not found, fall back to full compilation.
-  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  ReadFile.vcxproj -> E:\Github\Online-Courses\Udemy\C Programming For Beginners\CPractice\x64\Release\ReadFile.exe
