@@ -1,0 +1,4 @@
+﻿  Source.c
+E:\Github\Online-Courses\Udemy\C Programming For Beginners\02_TestAge2\Source.c(9,2): warning C4013: 'gets' undefined; assuming extern returning int
+E:\Github\Online-Courses\Udemy\C Programming For Beginners\02_TestAge2\Source.c(10,8): warning C4013: 'atoi' undefined; assuming extern returning int
+  02_TestAge2.vcxproj -> E:\Github\Online-Courses\Udemy\C Programming For Beginners\02_TestAge2\x64\Debug\02_TestAge2.exe
